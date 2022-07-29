@@ -1,0 +1,68 @@
+# Base Actor
+# Raidbots-generated SimC input for Armory character US Stormrage Schematx
+# On 2022-07-29T04:12:04.685Z
+
+druid="Schematx"
+level="60"
+race="worgen"
+region="us"
+server="stormrage"
+role="caster"
+talents="1333312"
+spec="balance"
+
+back=",id=175765,bonus_id=6707,drop_level=59,context=11"
+chest=",id=175651,bonus_id=6706,drop_level=56,context=11"
+feet=",id=177655,bonus_id=6706,drop_level=58,context=11"
+finger1=",id=175710,bonus_id=6706,drop_level=58,context=11"
+finger2=",id=175715,bonus_id=6707,drop_level=59,context=11"
+hands=",id=175656,bonus_id=6707,drop_level=55,context=11"
+head=",id=175662,bonus_id=6706,drop_level=58,context=11"
+legs=",id=175433,bonus_id=6707,drop_level=58,context=11"
+main_hand=",id=175988,bonus_id=6707,drop_level=57,context=11"
+neck=",id=175739,bonus_id=6707,drop_level=53,context=11"
+shoulder=",id=175434,bonus_id=6706,drop_level=58,context=11"
+trinket1=",id=175718,bonus_id=6707,drop_level=53,context=11"
+trinket2=",id=175725,bonus_id=6707,drop_level=54,context=11"
+waist=",id=175441,bonus_id=6707,drop_level=58,context=11"
+wrist=",id=175445,bonus_id=6707,drop_level=58,context=11"
+
+name="Schematx"
+
+# Consumables
+potion="disabled"
+food="disabled"
+flask="disabled"
+augmentation="disabled"
+
+# Expansion Options
+shadowlands.enable_domination_gems="0"
+shadowlands.soleahs_secret_technique_type="haste"
+shadowlands.titanic_ocular_gland_worthy_chance="1"
+shadowlands.enable_rune_words="0"
+temporary_enchant=""
+shadowlands.stone_legionnaires_in_party="0"
+shadowlands.crimson_choir_in_party="0"
+shadowlands.disable_iqd_execute="1"
+shadowlands.iqd_stat_fail_chance="0"
+shadowlands.unbound_changeling_stat_type=""
+
+# Actors
+
+# Simulation Options
+iterations="5000"
+desired_targets="1"
+max_time="300"
+calculate_scale_factors="0"
+scale_only="strength,intellect,agility,crit,mastery,vers,haste,weapon_dps,weapon_offhand_dps"
+override.bloodlust="0"
+override.arcane_intellect="0"
+override.power_word_fortitude="0"
+override.battle_shout="0"
+override.mystic_touch="0"
+override.chaos_brand="0"
+override.windfury_totem="0"
+override.bleeding="0"
+report_details="1"
+single_actor_batch="1"
+optimize_expressions="1"
