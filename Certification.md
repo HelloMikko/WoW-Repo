@@ -1,0 +1,8 @@
+- The/This/These file(s) and its contents are free of viruses, trojans, spyware, malware, and worms. If anything malicious is found you will be banned and your account information will be handed over to the proper authorities.
+- The/This/These file conforms to Blizzard's EULA, ToU and UI Add-On Development Policy.
+- The/This/These file is offered free of charge and is not available elsewhere for a fee.
+- The/This/These file, or the contents thereof, are not harmful or offensive in any way.
+- The/This/These file is free from advertisements or promotions or nag screens.
+- The/This/These file has no time limit and is free to use.
+- The description that you are providing to this file accurately reflects the contents of the file.
+- All uploads are posted instantly, however it could be updated by a/me/our devs and other contributors. Please respect the rules. :)
