@@ -1,9 +1,9 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+title: 'YOUR TITLE HERE'
+labels: 'EXAMPLES: BUG, REQUEST, COMMENT, IDEA'
+assignees: 'HelloMikko'
 
 ---
 
